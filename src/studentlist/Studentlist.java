@@ -8,7 +8,7 @@ package studentlist;
 /**
  * printing student details
  * @author srinivsi
- * branch
+ * branch date 
  */
 public class Studentlist
 {
