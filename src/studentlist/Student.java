@@ -13,6 +13,7 @@ public class Student
 {
     private String name;
     private int age;
+    private int pattimeid;
 
     /**
      * @return the name
@@ -40,6 +41,20 @@ public class Student
      */
     public void setAge(int age) {
         this.age = age;
+    }
+
+    /**
+     * @return the pattimeid
+     */
+    public int getPattimeid() {
+        return pattimeid;
+    }
+
+    /**
+     * @param pattimeid the pattimeid to set
+     */
+    public void setPattimeid(int pattimeid) {
+        this.pattimeid = pattimeid;
     }
     
 }
